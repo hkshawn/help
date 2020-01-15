@@ -1,4 +1,4 @@
-# -github的使用帮助
+# github的使用帮助
 
 #创建为同步目录
 
@@ -11,6 +11,8 @@ git add .
 #追踪
 
 git commit -m 'first commit'
+
+git remote add origin git@github.com:hkshawn/-.git
 
 #上传
 
